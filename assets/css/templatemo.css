@@ -13,6 +13,16 @@ Table of contents
 ---------------------------------------------
 
 html {font-family: 'Open Sans', sans-serif;}
+/* Social icons */
+.fa{
+  font-size: 3rem;
+  text-decoration: none;
+  padding: 10px;
+}
+.social-color{
+  color: white;
+}
+
 /* Typography */
 .logo-img{
   position: relative;
